@@ -26,4 +26,8 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store*.class
+nbproject/private/
+/build/
+*.class
+nbproject/private/
